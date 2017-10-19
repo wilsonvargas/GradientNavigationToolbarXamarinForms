@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:controls="clr-namespace:GradientNavigationHeader.Controls"
              xmlns:local="clr-namespace:GradientNavigationHeader"
-             Title="Title"
+             Title="Sample"
              x:Class="GradientNavigationHeader.MainPage">
 
 	<Label Text="Welcome to Xamarin Forms!" 
