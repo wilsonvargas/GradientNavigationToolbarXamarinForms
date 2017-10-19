@@ -12,3 +12,4 @@ Built with Xamarin.Forms with support for:
     Android
 
 
+![sample](https://raw.githubusercontent.com/wilsonvargas/GradientNavigationToolbarXamarinForms/master/images/sample.png)
