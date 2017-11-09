@@ -18,8 +18,7 @@ namespace GradientNavigationHeader
                 LeftColor = Color.FromHex("#36ED81"),
                 RightColor = Color.FromHex("#109F8D")
             };
-
-
+            
             //MainPage = new NavigationPage(new MainPage());
         }
 

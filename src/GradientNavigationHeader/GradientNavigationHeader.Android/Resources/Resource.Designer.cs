@@ -1557,6 +1557,12 @@ namespace GradientNavigationHeader.Droid
 			// aapt resource value: 0x7f060010
 			public const int abc_text_size_title_material_toolbar = 2131099664;
 			
+			// aapt resource value: 0x7f060075
+			public const int bar_text_size = 2131099765;
+			
+			// aapt resource value: 0x7f060074
+			public const int bigActionBAr = 2131099764;
+			
 			// aapt resource value: 0x7f060009
 			public const int cardview_compat_inset_shadow = 2131099657;
 			
