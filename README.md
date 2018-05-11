@@ -11,6 +11,6 @@ Built with Xamarin.Forms with support for:
     iOS
     Android
 
-Build status: [![Build status](https://ci.appveyor.com/api/projects/status/44taiigosbh6v6f4?svg=true)](https://ci.appveyor.com/project/wilsonvargas/gradientnavigationtoolbarxamarinforms)
+[![Build status](https://ci.appveyor.com/api/projects/status/44taiigosbh6v6f4?svg=true)](https://ci.appveyor.com/project/wilsonvargas/gradientnavigationtoolbarxamarinforms) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/wilsondonations/5)
 
 ![sample](https://raw.githubusercontent.com/wilsonvargas/GradientNavigationToolbarXamarinForms/master/images/sample.png)
